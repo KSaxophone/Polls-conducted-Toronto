@@ -1,4 +1,4 @@
-# starter_folder
+# Polls-conducted-Toronto
 
 This repo contains R project used in creating the paper "Polls Conducted for City Issues in Toronto from 2015 to Present"
 
